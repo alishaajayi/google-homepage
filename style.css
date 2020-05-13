@@ -1,0 +1,52 @@
+li {
+  display: inline;
+  background-color: none;
+  padding-left: 25px;
+  border: gray;
+  padding-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#sign-in {
+  display: inline;  
+  padding-right: 20px;
+  float: right;
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  padding-top: 10rem;
+  padding-bottom: 1rem;
+  height: auto;
+}
+
+#searchandlucky {
+  text-align: center;
+  padding-top: 1rem;
+
+}
+
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+#search {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 30px;
+  padding-bottom: .5rem;
+  border: 1 px solid grey;
+  border-radius: 110px;
+  }
+
